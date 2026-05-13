@@ -1,58 +1,11 @@
-💫 About Me:
-👋 Hey, I’m Quang
-🚀 About Me
-🎓 A-Level student based in the UK
-🧠 I like thinking logically and solving problems step-by-step
-🎮 Big fan of League of Legends (yeah I queue up sometimes too much)
-💻 Into practical tech — building things > just theory
-🔐 Interested in cybersecurity and cloud engineering
-🛠️ What I’m Working On
+# 💫 About Me:
+👋 Hey, I'm Quang<br>🚀 About Me<br>🎓 A-Level student based in the UK<br>🧠 I like thinking logically and solving problems step-by-step<br>🎮 Big fan of League of Legends (yeah I queue up sometimes too much)<br>💻 Into practical tech — building things > just theory<br>🔐 Interested in cybersecurity and cloud engineering<br>🛠️ What I’m Working On<br><br>I’m building a portfolio of real projects to level up my skills:<br><br>🌐 Full-Stack & Web Projects<br>💅 Nail salon website → evolving into full-stack (Python backend + automation + Google Sheets API)<br>🎌 Anime interactive website → JavaScript-heavy, dynamic UI, AI-assisted features<br>📊 Data & AI Projects<br>📈 Data analysis + ML project using pandas, numpy, seaborn<br>🎯 Focused on A-Level stats + real-world datasets<br>👁️ Computer Vision / Deep Learning<br>🖐️ Hand tracking / object detection projects<br>🤖 Exploring how AI actually “sees” the world<br>🔐 Cybersecurity Exploration<br>🛡️ Python-based security tools (learning + building)<br>🧪 Ethical hacking + TryHackMe-style practice<br>📚 Documented learning projects (not just random scripts)<br>🧠 What I’m Aiming For<br>🎯 Top UK universities (Imperial / Manchester-level)<br>🎯 Or a competitive tech degree apprenticeship<br>💡 Career direction: cybersecurity / cloud engineering<br>⚡ Preference: hands-on real-world tech over pure theory<br>📚 Skills (Building In Progress)<br>Languages<br>Python 🐍<br>JavaScript ⚡<br>HTML / CSS 🌐<br>Libraries / Tools<br>pandas, numpy, seaborn 📊<br>Git & GitHub 🔧<br>Google Sheets API 📄<br>(Learning) scikit-learn 🤖🎮 Fun Stuff<br>League of Legends player 🎮<br>Likes problem-solving, strategy, and logical thinking<br>Probably overthinks some bugs for no reason 💀
 
-I’m building a portfolio of real projects to level up my skills:
 
-🌐 Full-Stack & Web Projects
-💅 Nail salon website → evolving into full-stack (Python backend + automation + Google Sheets API)
-🎌 Anime interactive website → JavaScript-heavy, dynamic UI, AI-assisted features
-📊 Data & AI Projects
-📈 Data analysis + ML project using pandas, numpy, seaborn
-🎯 Focused on A-Level stats + real-world datasets
-👁️ Computer Vision / Deep Learning
-🖐️ Hand tracking / object detection projects
-🤖 Exploring how AI actually “sees” the world
-🔐 Cybersecurity Exploration
-🛡️ Python-based security tools (learning + building)
-🧪 Ethical hacking + TryHackMe-style practice
-📚 Documented learning projects (not just random scripts)
-🧠 What I’m Aiming For
-🎯 Top UK universities (Imperial / Manchester-level)
-🎯 Or a competitive tech degree apprenticeship
-💡 Career direction: cybersecurity / cloud engineering
-⚡ Preference: hands-on real-world tech over pure theory
-📚 Skills (Building In Progress)
-Languages
-Python 🐍
-JavaScript ⚡
-HTML / CSS 🌐
-Libraries / Tools
-pandas, numpy, seaborn 📊
-Git & GitHub 🔧
-Google Sheets API 📄
-(Learning) scikit-learn 🤖🎮 Fun Stuff
-League of Legends player 🎮
-Likes problem-solving, strategy, and logical thinking
-Probably overthinks some bugs for no reason 💀
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quang._tran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Quang Tran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quangminh206lnh@gmail.com) 
 
-🌐 Socials:
-Instagram [LinkedIn](https://linkedin.com/in/Quang Tran) email
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-💻 Tech Stack:
-HTML5 Python JavaScript CSS3 Matplotlib NumPy Pandas scikit-learn
-
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Quang Tran&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Quang Tran&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Quang Tran&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=Quang Tran&icon=0&color=0)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
